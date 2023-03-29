@@ -984,4 +984,6 @@ if Base.VERSION >= v"1.5"
     include("other/precompile.jl")
 end
 
+include("app.jl")
+
 end
